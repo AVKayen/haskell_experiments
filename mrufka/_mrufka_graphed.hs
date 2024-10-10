@@ -1,5 +1,6 @@
+-- !! A failed experiment.
 -- Solves https://arkusze.pl/maturalne/informatyka-2014-grudzien-probna-rozszerzona-2.pdf Zadanie 4.1 - 4.3 (Without graphs)
--- Outputs to answers.txt AND plot.png using Matplotlib bindings. A failed experiment.
+-- Outputs to answers.txt AND plot.png using Matplotlib bindings. 
 module Main where
 import Text.Printf (printf)
 import Graphics.Matplotlib
